@@ -1,20 +1,23 @@
 name: app
-description: "A new Flutter project."
-publish_to: "none"
-version: 0.1.0+1
+version: 0.0.0
+homepage: https://github.com/deminearchiver-ru/ITMO.Market
+repository: https://github.com/deminearchiver-ru/ITMO.Market/tree/main/app
+issue_tracker: https://github.com/deminearchiver-ru/ITMO.Market/issues
+publish_to: none
 
 environment:
   sdk: ^3.14.0
+  flutter: ">=3.50.0"
 
 dependencies:
   flutter:
     sdk: flutter
-  material_ui: ^1.1.0
+  material_ui: ^1.11.1
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^6.0.0
+  deminearchiver_lints: ^3.1.0
 
 flutter:
   uses-material-design: true
