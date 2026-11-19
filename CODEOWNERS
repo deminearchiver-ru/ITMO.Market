@@ -1,0 +1,6 @@
+# @deminearchiver is the default global code owner.
+* @deminearchiver
+
+# @YARKA333 must review PRs from other members,
+# while @deminearchiver must review PRs from @YARKA333.
+/server/ @deminearchiver @YARKA333
